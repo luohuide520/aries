@@ -6,7 +6,7 @@ server:
   allowed_refers: ["localhost", "127.0.0.1"] # 允许的 referer
   limit_time: 5 # 限流时间间隔
   limit_cap: 100 # 间隔时间内最大访问次数
-# 数据库配置
+# 数据库配置： mysql -hlocalhost -P3306 -uroot -p'xxxxxxx(密码)' -Daries(数据库) -A --default-character-set=utf8
 db:
   host: "127.0.0.1" # 主机地址
   user_name: "root" # 用户名
