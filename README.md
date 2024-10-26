@@ -1,5 +1,5 @@
 # Aries
-项目来自于github他人，仅此学习之用
+项目来自于github他人，仅此学习之用，2024-10-26
 ## 注意
 
 部署了最新版本 `Aries` 的小伙伴请注意一下，需要进入后台管理的 `系统/设置/网站设置`，将**静态资源根路径**修改为最新版本：[https://cdn.jsdmirror.com/gh/zhaoyangkun/aries@latest](https://cdn.jsdmirror.com/gh/zhaoyangkun/aries@latest)
