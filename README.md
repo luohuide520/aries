@@ -56,6 +56,7 @@ Aries 是基于 Gin + GORM + MySQL + Vue + H5 开发的现代化博客系统，�
    - 支持 sm.ms，imgbb 和 腾讯云 cos 存储
    - 多图片上传
    - 图片管理
+   - 图片存储：https://smms.app/
 5. 页面
 
    - 日志管理
